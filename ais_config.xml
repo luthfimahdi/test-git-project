@@ -13,7 +13,7 @@
 
   <Configuration_Entry Key="GSOAP Web Services Port" Value="2376"/>
 
-  <Configuration_Entry Key="Web Server Port" Value="2377"/>
+  <Configuration_Entry Key="Web Server Port" Value="443"/>
 
   <Configuration_Entry Key="Metadata Environment Directory" Value="C:\Actimize\ais_server\Instances\wlf/metadata"/>
 

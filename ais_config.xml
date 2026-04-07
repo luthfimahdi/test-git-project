@@ -151,7 +151,7 @@
 
   <Configuration_Entry Key="Java Max Heap Size (MB)" Value="4096"/>
 
-  <Configuration_Entry Key="Additional JVM Settings" Value="-Xms2048M;-Xss1024K;-XX:MaxPermSize=2048M;-XX:+UseConcMarkSweepGC;-XX:+UseTLAB;-Xrs"/>
+  <Configuration_Entry Key="Additional JVM Settings" Value="-Xms2048M;-Xss1024K;-XX:MaxPermSize=4096M;-XX:+UseConcMarkSweepGC;-XX:+UseTLAB;-Xrs"/>
 
   <Configuration_Entry Key="Enable Embedded Web-Server" Value="1"/>
 

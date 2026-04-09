@@ -7,7 +7,7 @@
 
   <Configuration_Entry Key="Group Name" Value=""/>
 
-  <Configuration_Entry Key="Instance ID" Value="1"/>
+  <Configuration_Entry Key="Instance ID" Value="2"/>
 
   <Configuration_Entry Key="Listener port" Value="2375"/>
 

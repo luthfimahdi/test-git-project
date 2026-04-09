@@ -19,7 +19,7 @@
 
   <Configuration_Entry Key="Metadata Environment Configuration" Value=""/>
 
-  <Configuration_Entry Key="Metadata Cache Size" Value="20"/>
+  <Configuration_Entry Key="Metadata Cache Size" Value="50"/>
 
   <Configuration_Entry Key="Temporary Directory" Value="C:\Actimize\ais_server\Instances\wlf/temp"/>
 
